@@ -1,3 +1,5 @@
+## This project is part of Udacity's NanoDegree program in Machine Learning.
+
 # Project 2: Supervised Learning
 ## Building a Student Intervention System
 
