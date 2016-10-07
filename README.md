@@ -1,4 +1,4 @@
-## This project is part of Udacity's NanoDegree program in Machine Learning.
+## This project is part of Udacity's Nanodegree program in Machine Learning.
 ### The dataset is in the student-data.csv file in this repository.
 
 # Project 2: Supervised Learning
