@@ -1,5 +1,6 @@
 ## This project is part of Udacity's Nanodegree program in Machine Learning.
-### The dataset is in the student-data.csv file in this repository.
+###The dataset is in the student-data.csv file in this repository.
+###The project code and results are located in the student_intervention.ipynb file.
 
 # Project 2: Supervised Learning
 ## Building a Student Intervention System
